@@ -5,7 +5,7 @@
 - 📫 I'm reachable via email saifeddine.benromdhane@protonmail.com
 
 
-![BrSeifEddine's Stats](https://github-stats-lovat-delta.vercel.app/api?username=brsaif&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![BrSeifEddine's Stats](https://github-readme-stats.vercel.app/api?username=brsaif&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <!---
 brSaif/brSaif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
